@@ -10,4 +10,4 @@ This is a simple DevOps demo project. It:
 - Code is pushed to the `main` branch
 - GitHub Actions deploys the `/website` folder to GitHub Pages
  
- 
+ Link to website - https://deepakkr545.github.io/hello-static-website/
